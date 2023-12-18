@@ -1,4 +1,4 @@
-### Blazor-CQRS-EventSourcing-EntityFramework-Template
+# Blazor-CQRS-EventSourcing-EntityFramework-Template
 
 This project is initially set as a study project that would help me understand and implement software development concepts stemming from the Domain-Driven-Design software development approach. My desire is for this project to be of help to others in faster learning Domain Driven Design and other concepts that I have been studying since its conceptualization. I hope that this can be a template that you can use to initialize your personal project. Cheers! 
 
