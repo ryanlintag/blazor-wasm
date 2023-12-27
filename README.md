@@ -11,7 +11,7 @@ This project is initially set as a study project that would help me understand a
 6. SonarAnalyzer.CSharp
 7. xunit
 8. EntityFrameworkCore
-
+ 
 # Software Development Concepts being implemented
 1. Domain Driven Design
 2. Clean Architecture
